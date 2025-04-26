@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/srcery-colors/srcery-assets/master/src/logo_border.svg">
+  <img src="srcery-wallpaper.png">
 </p>
 
 <p align="center">
@@ -14,14 +14,23 @@
   </a>
 </p>
 
-<h2 align="center">[THEME NAME]</h2>
+<h2 align="center">Srcery Wallpaper</h2>
 
-<p align="center">
-[THEME DESCRIPTION]
-</p>
+## Description
 
+4K Dark ritual wallpaper for practicing late night srcery on your desktop.
 
-## Requirements
-## Installation
-## Screenshots
+## Variants
 
+More variants incoming, and if you need a different file format let me know by
+creating a new
+[issue](https://github.com/srcery-colors/srcery-wallpaper/issues/new/choose).
+
+### Orignal
+
+- [Portable Network Graphics (PNG)](./srcery-wallpaper.png)
+- [Scalable Vector Graphics (SVG)](./srcery.wallpaper.svg)
+
+## License
+
+ <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/srcery-colors/srcery-wallpaper">Srcery Wallpaper</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://github.com/srcery-colors">Daniel Berg and srcery-colors contributors</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p> 
