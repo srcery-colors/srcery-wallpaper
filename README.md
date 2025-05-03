@@ -29,7 +29,13 @@ creating a new
 ### Orignal
 
 - [Portable Network Graphics (PNG)](./srcery-wallpaper.png)
-- [Scalable Vector Graphics (SVG)](./srcery.wallpaper.svg)
+- [Scalable Vector Graphics (SVG)](./srcery-wallpaper.svg)
+
+### Glyph
+
+Glyph without the background, same size as the wallpaper asset
+
+- [Portable Network Graphics (PNG)](./srcery-glyph.png)
 
 ## License
 
